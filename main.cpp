@@ -1,3 +1,6 @@
+// Release  : 855 ns      => 0 ns per loop
+// Debug    : 9136413 ns  => 9 ns per loop
+
 #include <iostream>
 #include <chrono>
 
